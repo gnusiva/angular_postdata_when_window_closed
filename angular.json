@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularWhenWindowClosed"
+    }
+  },
+  "defaultProject": "angularWhenWindowClosed",
+  "cli": {
+    "analytics": "b113cf49-928f-48f1-98f9-86fd7a41081c"
+  }
 }
